@@ -18,6 +18,12 @@ The project covers the full BI cycle: data extraction, cleaning, exploratory ana
 - **Methods:** ETL, EDA, Time Series Forecasting (ARIMA), Clustering (K-Means)
 
 ## 📁 Project Structure
+TFM-ImperialBrands/
+├── 📄 README.md # Project overview (this file)
+├── 📄 Trabajo Fin de Máster.pdf # Full thesis document (Spanish)
+└── 📁 project/ # All code and dashboard files
+├── 📄 01_data_cleaning.R # Data preprocessing and ETL
+└── 📄 dashboard.pbix # Power BI interactive dashboards
 
 ## 🔍 Key Results & Insights
 
