@@ -1,4 +1,4 @@
-# -Business-Intelligence-System-for-Altadis-Imperial-Brands-Distribution-Channel
+# Business Intelligence System for Altadis Imperial Brands Distribution Channel
 
 ## Project Overview
 This Master's Thesis project involved the design and development of an end-to-end Business Intelligence (BI) system for **Altadis Imperial Brands**, a leading tobacco company. The goal was to transform raw operational data into strategic insights to optimize their distribution channel management.
